@@ -1,0 +1,11 @@
+-- EC_IT143_6.3_fwt_s3_so.sql
+-- Researching and testing the creation of an after-update trigger.
+
+-- Example found:
+-- CREATE TRIGGER trigger_name
+-- ON table_name
+-- AFTER UPDATE
+-- AS
+-- BEGIN
+--     -- Trigger logic
+-- END;
